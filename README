@@ -3,8 +3,7 @@ Crypt::Khazad
 
 Khazad is a 128-bit key, 64-bit block cipher. Designed by Vincent
 Rijmen and Paulo S. L. M. Barreto, Khazad is a NESSIE finalist for
-legacy-level block ciphers. Khazad has many similarities with Rijndael,
-and has an extremely high rate of diffusion.
+legacy-level block ciphers. Khazad has many similarities with Rijndael.
 
 BONUS
 

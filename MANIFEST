@@ -3,6 +3,7 @@ Changes
 examples/cbc-mode
 examples/ecb-mode
 examples/fileenc
+examples/pin-generator
 INSTALL
 Khazad.pm
 Khazad.xs
